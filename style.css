@@ -11,4 +11,5 @@ body {
 
 .column {
   display: flex;
+  flex-direction: row;
 }
