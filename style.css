@@ -20,4 +20,8 @@ body {
   display: flex;
   flex-direction: row;
   background-color: #b9d7df;
+  position: relative;
+  text-align: center;
+  top: 50%;
+  transform: translateY(-50%);
 }
