@@ -19,7 +19,7 @@ body {
   display: flex;
   flex-direction: row;
   background-color: #b8e2ee;
-  position: absolute;
+  position: relative;
   text-align: center;
   top: 50%;
   margin: 0;
