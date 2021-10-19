@@ -39,8 +39,12 @@ body {
   padding: 10px 15px;
 }
 
-.footer-div {
+.footer {
+  padding: 10px 10px;
   background-color: #2d8ea8;
+}
+
+.footer-div {
   margin: 10px 80px;
   padding: 20px 60px;
 }
