@@ -38,6 +38,12 @@ body {
   opacity: 75%;
 }
 
+.column-head {
+  display: relative;
+  align-items: center;
+  justify-content: center;
+}
+
 .park-1 {
   padding: 10px 15px;
 }
