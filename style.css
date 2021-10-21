@@ -70,6 +70,7 @@ body {
 
 .background {
   background-color: #b8e2ee;
+  box-sizing: border-box;
 }
 .footer-div {
   margin: 10px 80px;
