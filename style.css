@@ -14,7 +14,10 @@ body {
 .header {
   color: #a8220b;
 }
-
+.svg {
+  height: 40%;
+  width: 50%;
+}
 .header-div {
   display: flex;
   flex-direction: column;
