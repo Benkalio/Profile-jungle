@@ -65,7 +65,7 @@ body {
   margin-top: auto;
   bottom: 0;
   width: 100%;
-  position: relative;
+  position: fixed bottom;
   padding: 10px 10px 0 0;
   background-color: #29525e;
 }
