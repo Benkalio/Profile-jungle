@@ -25,6 +25,11 @@ body {
   align-items: center;
   color: #29525e;
 }
+
+.personal-bg {
+  padding: 10px 20px;
+}
+
 .header-div {
   display: flex;
   flex-direction: column;
