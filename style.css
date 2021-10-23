@@ -20,7 +20,7 @@ body {
 }
 
 .bg-body {
-  direction: flexbox;
+  display: flex;
   justify-content: center;
   align-items: center;
 }
