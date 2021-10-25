@@ -41,6 +41,12 @@ body {
   font-size: 17px;
 }
 
+.topnav a:hover {
+  background-color: #092d33;
+  color: white;
+}
+/* Navbar end */
+
 .personal-bg {
   padding: 10px 20px;
   margin: 10px 20px;
