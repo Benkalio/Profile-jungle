@@ -28,6 +28,7 @@ body {
 
 .topnav {
   background-color: #6bb4c7;
+  overflow: hidden;
 }
 
 .personal-bg {
