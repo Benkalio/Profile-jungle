@@ -45,6 +45,11 @@ body {
   background-color: #092d33;
   color: white;
 }
+
+.topnav a.active {
+  background-color: #3f3636;
+  color: white;
+}
 /* Navbar end */
 
 .personal-bg {
